@@ -1,6 +1,6 @@
 # The Arcade Landing Page
 
----
+![demo-gif](https://user-images.githubusercontent.com/63374582/121812151-7c132e00-cc6f-11eb-95f1-aacf6778e06e.gif)
 
 ## Description
 
